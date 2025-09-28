@@ -1,2 +1,2 @@
-# GroupProject-Buoi3
+# GroupProject-Buoi3 — Team A9 (Vinh update)
 Mô tả: Repo luyện Git theo nhóm.
