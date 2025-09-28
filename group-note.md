@@ -1,1 +1,2 @@
 - Thai: da hoan thanh file chung.
+- Thai: da hoan thanh file chung.
