@@ -1,2 +1,3 @@
 - Thai: da hoan thanh file chung.
 - Thai: da hoan thanh file chung.
+- Vinh: da them ghi chu.
