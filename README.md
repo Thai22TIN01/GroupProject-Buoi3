@@ -1,2 +1,1 @@
-# GroupProject-Buoi3 — Team A9 (Thai lead)
-Mô tả: Repo luyện Git theo nhóm.
+Dong 1 cua Thai sua + Vinh sua
