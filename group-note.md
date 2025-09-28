@@ -1,0 +1,1 @@
+- Thai: da hoan thanh file chung.
